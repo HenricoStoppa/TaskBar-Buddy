@@ -1,2 +1,2 @@
 # TaskBar-Buddy
-A tiny desktop companion that lives on your taskbar — built with Electron, React and TDD.
+TaskBar-Buddy is a virtual pet that lives right on your taskbar. It doesn't take over your screen or get in your way — just a small visual companion pacing back and forth while you work. Built with Electron and React, following TDD from the very first line of code.
