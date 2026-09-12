@@ -1,0 +1,26 @@
+{
+    "name": "taskbar-buddy",
+    "version": "1.0.0",
+    "description": "TaskBar-Buddy is a virtual pet that lives right on your taskbar. It doesn't take over your screen or get in your way — just a small visual companion pacing back and forth while you work. Built with Electron and React, following TDD from the very first line of code.",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest --runInBand --verbose\"",
+        "test:watch": "jest --watchAll --runInBand --verbose"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HenricoStoppa/TaskBar-Buddy.git"
+    },
+    "author": "Henrico Stoppa",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/HenricoStoppa/TaskBar-Buddy/issues"
+    },
+    "homepage": "https://github.com/HenricoStoppa/TaskBar-Buddy#readme",
+    "devDependencies": {
+        "@babel/core": "^7.29.7",
+        "@babel/preset-env": "^7.29.7",
+        "babel-jest": "^30.5.1",
+        "jest": "^30.5.1"
+    }
+}
